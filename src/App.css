@@ -3,7 +3,7 @@
 body {
   margin: 0;
   font-family: 'Segoe UI', 'Roboto', sans-serif;
-  background: #fafafa;
+  background: #daa520;
   color: #222;
   line-height: 1.6;
 }
@@ -112,7 +112,7 @@ body {
 /* servicios */
 .servicios {
   padding: 4rem 0;
-  background-color: #fff;
+  background-color: #daa520;
   text-align: center;
 }
 
@@ -179,7 +179,7 @@ body {
 
 /* Formularios */
 .formulario-box {
-  background-color: #fff;
+  background-color: #070606;
   padding: 2rem;
   border-radius: 12px;
   max-width: 500px;
@@ -216,7 +216,7 @@ body {
 
 .formulario-box button {
   background-color: goldenrod;
-  color: white;
+  color: rgb(36, 29, 29);
   border: none;
   padding: 0.75rem;
   font-size: 1rem;
