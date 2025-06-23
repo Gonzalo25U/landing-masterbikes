@@ -28,7 +28,7 @@ export default function FormVenta() {
 
   return (
     <div className="formulario-box">
-      <h3>Formulario de Venta</h3>
+      <h3>Ingrese aqui su Informacion</h3>
       <form onSubmit={handleSubmit}>
         <input
           name="nombre"

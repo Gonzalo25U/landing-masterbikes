@@ -3,7 +3,9 @@
 body {
   margin: 0;
   font-family: 'Segoe UI', 'Roboto', sans-serif;
-  background: #daa520;
+  background:
+    linear-gradient(to right, rgba(248, 248, 248, 0.85), rgba(48, 43, 43, 0.85)),
+    url('/src/assets/pictures/fondo.jpg') center/cover no-repeat;
   color: #222;
   line-height: 1.6;
 }
