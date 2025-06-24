@@ -29,7 +29,7 @@ export default function FormArriendo() {
 
   return (
     <div className="formulario-box">
-      <h3>Formulario de Arriendo</h3>
+      <h3>Ingrese sus datos</h3>
       <form onSubmit={handleSubmit}>
         <input
           name="nombre"

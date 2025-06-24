@@ -28,7 +28,7 @@ export default function FormReparacion() {
 
   return (
     <div className="formulario-box">
-      <h3>Formulario de Reparación</h3>
+      <h3>Ingrese sus datos</h3>
       <form onSubmit={handleSubmit}>
         <input
           name="nombre"
